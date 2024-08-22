@@ -66,6 +66,8 @@ void Error_Handler(void);
 #define HALL_W_Pin GPIO_PIN_2
 #define HALL_W_GPIO_Port GPIOA
 #define HALL_W_EXTI_IRQn EXTI2_IRQn
+#define THROTTLE_Pin GPIO_PIN_7
+#define THROTTLE_GPIO_Port GPIOA
 
 /* USER CODE BEGIN Private defines */
 
